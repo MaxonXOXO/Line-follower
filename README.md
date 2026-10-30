@@ -8,7 +8,7 @@ A line-following robot built with **no microcontroller and no code**. IR sensor 
 ![Supply](https://img.shields.io/badge/supply-2×18650-lightgrey)
 
 <p align="center">
-  <img src="images/car-side.jpg" alt="Side view of the finished line follower car" width="720">
+  <img src="images/car-side2.jpeg" alt="Side view of the finished line follower car" width="720">
 </p>
 
 ## Contents
